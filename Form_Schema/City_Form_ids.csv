@@ -1,0 +1,211 @@
+city_id,city,form_id,state
+193,Albany,19371001,NY
+199,Allentown,,PA
+450,Union Co.,1939,NJ
+190,Bergen Co.,1939,NJ
+130,Bethlehem,,PA
+403,Davenport,1,IA
+40,Des Moines,1,IA
+146,Columbia,19371001,SC
+64,Shreveport,1,LA
+13,Little Rock,1,AR
+60,Covington,,KY
+404,Peoria,,IL
+410,Lincoln,,NE
+173,Kenosha,19371001,WI
+178,Huntington,19371001,WV
+133,Harrisburg,,PA
+76,Lansing,,MI
+136,McKeesport,,PA
+159,Port Arthur,,TX
+14,Phoenix,1,AZ
+320,Portsmouth,,VA
+162,Ogden,1,UT
+183,Waterbury,19370203,CT
+140,Scranton,,PA
+66,Springfield,,MA
+37,Savannah,1,GA
+104,Queens,19371001,NY
+58,Topeka,1,KS
+197,Lower Westchester Co.,19370601,NY
+145,Woonsocket,1,RI
+177,Charleston,19371001,WV
+271,Chelsea,19371001,MA
+141,Wilkes-Barre,,PA
+266,Belmont,19371001,MA
+179,Wheeling,19371001,WV
+182,New Britain,19370203,CT
+96,Essex Co.,1939,NJ
+163,Salt Lake City,1,UT
+24,Pueblo,1,CO
+184,Brockton,19370601,MA
+18,Sacramento,19371001,CA
+28,"Stamford, Darien, and New Canaan",19370826,CT
+110,Utica,19371001,NY
+34,Augusta,19370826,GA
+268,Braintree,19371001,MA
+280,Newton,19371001,MA
+49,Rockford,19371001,IL
+16,Los Angeles,1939,CA
+81,Minneapolis,1,MN
+20,San Francisco,1,CA
+33,Atlanta,19371001,GA
+38,Council Bluffs,,IA
+131,Chester,,PA
+116,Columbus,0,OH
+63,New Orleans,1939,LA
+68,Baltimore,19370601,MD
+166,Norfolk,1939,VA
+287,Winchester,19371001,MA
+114,Akron,1939,OH
+125,Youngstown,19371001,OH
+185,Haverhill,19370203,MA
+187,Worcester,,MA
+135,Lancaster,,PA
+143,Pawtucket & Central Falls,,RI
+85,St. Louis,,MO
+279,Needham,19371001,MA
+11,Mobile,19370601,AL
+148,Knoxville,1939,TN
+36,Macon,19370826,GA
+276,Medford,19371001,MA
+70,Bay City,19370601,MI
+78,Pontiac,19370203,MI
+79,Saginaw,19370203,MI
+121,Portsmouth,19371001,OH
+69,Battle Creek,19370203,MI
+147,Chattanooga,1939,TN
+286,Watertown,19371001,MA
+278,Milton,19371001,MA
+196,Elmira,19371001,NY
+82,Rochester,0,MN
+27,New Haven,19370826,CT
+269,Brookline,19371001,MA
+61,Lexington,19371001,KY
+282,Revere,19371001,MA
+117,Dayton,19370203,OH
+123,Toledo,19371001,OH
+191,Camden,19370601,NJ
+186,Holyoke Chicopee,1,MA
+71,Detroit,1939,MI
+90,Asheville,19370826,NC
+48,Joliet,19370601,IL
+172,Tacoma,19371001,WA
+109,Troy,19371001,NY
+29,Jacksonville,1,FL
+139,Pittsburgh,19370826,PA
+283,Saugus,19371001,MA
+57,Terre Haute,19371001,IN
+306,Nashville,,TN
+128,Portland,19371001,OR
+400,Omaha,,NE
+195,Buffalo,19370203,NY
+120,Lorain,19370601,OH
+59,Wichita,19370203,KS
+246,Austin,0,TX
+86,Springfield,19371001,MO
+56,South Bend,19370203,IN
+270,Cambridge,19371001,MA
+313,Hartford,19371001,CT
+194,Binghamton-Johnson City,19370203,NY
+41,Dubuque,1,IA
+50,Springfield,19370203,IL
+54,Lake Co. Gary,19371001,IN
+83,St. Paul,1,MN
+192,Trenton,19370826,NJ
+43,Waterloo,1,IA
+42,Sioux City,1,IA
+285,Waltham,19371001,MA
+272,Dedham,19371001,MA
+30,Miami,19371001,FL
+154,Dallas,19371001,TX
+134,Johnstown,19370826,PA
+161,Waco,,TX
+149,Memphis,,TN
+180,Bridgeport,0,CT
+305,Lake Co. Calumet/Hammond,19371001,IN
+151,Amarillo,,TX
+158,Houston,,TX
+157,Galveston,,TX
+156,Fort Worth,,TX
+127,Tulsa,,OK
+274,Lexington,19371001,MA
+118,Hamilton,19371001,OH
+189,Atlantic City,1939,NJ
+19,San Diego,1,CA
+281,Quincy,19371001,MA
+101,Manhattan,19371001,NY
+138,Philadelphia,19370601,PA
+32,Tampa,1,FL
+44,Aurora,19371001,IL
+72,Flint,19370203,MI
+17,Oakland,19370826,CA
+168,Richmond,19370203,VA
+62,Louisville,0,KY
+99,Brooklyn,19371001,NY
+144,Providence,,RI
+74,Jackson,,MI
+55,Muncie,19370826,IN
+10,Birmingham,19371001,AL
+132,Erie,19370826,PA
+92,Durham,19370203,NC
+175,Oshkosh,19371001,WI
+52,Fort Wayne,19370601,IN
+201,Milwaukee Co.,19371001,WI
+277,Melrose,19371001,MA
+22,Stockton,19371001,CA
+267,Boston,19371001,MA
+51,Evansville,19370203,IN
+75,Kalamazoo,19370826,MI
+122,Springfield,19371001,OH
+124,Warren,19370826,OH
+170,Seattle,1,WA
+169,Roanoke,19370203,VA
+45,Chicago,1939,IL
+288,Winthrop,19371001,MA
+284,Somerville,19371001,MA
+174,Madison,6234766,WI
+160,San Antonio,,TX
+275,Malden,19371001,MA
+155,El Paso,1,TX
+153,Beaumont,,TX
+198,Canton,19371001,OH
+119,Lima,19370203,OH
+12,Montgomery,19370826,AL
+105,Rochester,1939,NY
+106,Schenectady,19371001,NY
+77,Muskegon,19371001,MI
+80,Duluth,1,MN
+126,Oklahoma City,0,OK
+237,Altoona,19370826,PA
+226,Greater Kansas City,1939,MO
+171,Spokane,19371001,WA
+165,Newport News,0,VA
+176,Racine,19371001,WI
+15,Fresno,1,CA
+91,Charlotte,19370203,NC
+98,Bronx,19371001,NY
+73,Grand Rapids,19371001,MI
+102,Niagara Falls,19370826,NY
+53,Indianapolis,19370203,IN
+35,Columbus,19370826,GA
+103,Poughkeepsie,19371001,NY
+115,Cleveland,1939,OH
+21,San Jose,19370826,CA
+46,Decatur,19370203,IL
+93,Greensboro,19370203,NC
+188,Manchester,19370203,NH
+137,New Castle,19370826,PA
+95,Hudson Co.,1939,NJ
+107,Staten Island,19371001,NY
+164,Lynchburg,19370203,VA
+47,East St. Louis,1939,IL
+89,Jackson,,MS
+31,St. Petersburg,19370826,FL
+87,St. Joseph,19370826,MO
+94,Winston-Salem,19370203,NC
+108,Syracuse,1939,NY
+23,Denver,19371001,CO
+273,Everett,19371001,MA
+265,Arlington,19371001,MA
+142,York,9675,PA
