@@ -1,7 +1,9 @@
 # HOLC_CensusTracts
-HOLC Polygons and CensusTracts Joined
+HOLC Polygons and CensusTracts
 
 Census Tracts were intersected with HOLC Polygons. Census information can be joined via the "geoid" field. There are two field "holc_prop" and "tract_prop" which give the proportion of the HOLC polygon in the Census Tract and the proportion of Census Tract in the HOLC Polygon respectively. 
+
+Additonally, Census Tracts are provided for areas that overlap with graded HOLC neighborhoods. A "holc_tract_lookup" is provided which tells you the proportion of a particular holc neighborhood contained within the Census Tract. 
 
 If you are citing Mapping Inequality or acknowledge the source of any of the following data, we recommend the following format using the Chicago Manual of Style.
 
