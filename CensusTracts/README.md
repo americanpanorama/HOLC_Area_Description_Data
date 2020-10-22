@@ -1,5 +1,4 @@
-﻿<<<<<<< HEAD
-HOLC Polygons and CensusTracts
+﻿#HOLC Polygons and CensusTracts
 
 Census Tracts were intersected with HOLC Polygons. Census information can be joined via the "geoid" field. There are two field "holc_prop" and "tract_prop" which give the proportion of the HOLC polygon in the Census Tract and the proportion of Census Tract in the HOLC Polygon respectively. 
 
@@ -8,7 +7,6 @@ Additonally, Census Tracts are provided for areas that overlap with graded HOLC 
 If you are citing Mapping Inequality or acknowledge the source of any of the following data, we recommend the following format using the Chicago Manual of Style.
 
 If you are citing acknowledging the source this data, we recommend the following format using the Chicago Manual of Style.
->>>>>>> 653fe2d0652fc51e6d14af649813fd23aa0bfcc8
 
 Robert K. Nelson, LaDale Winling, Richard Marciano, Nathan Connolly, et al., “Mapping Inequality,” *American Panorama*, ed. Robert K. Nelson and Edward L. Ayers, accessed September 18, 2020, https://dsl.richmond.edu/panorama/redlining/ and https://github.com/americanpanorama/HOLC_Area_Description_Data/edit/master/CensusTracts.
 
