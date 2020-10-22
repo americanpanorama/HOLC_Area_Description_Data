@@ -6,7 +6,7 @@ Census Tracts were intersected with HOLC Polygons. Census information can be joi
 Additonally, Census Tracts are provided for areas that overlap with graded HOLC neighborhoods. A "holc_tract_lookup" is provided which tells you the proportion of a particular holc neighborhood contained within the Census Tract. 
 
 If you are citing Mapping Inequality or acknowledge the source of any of the following data, we recommend the following format using the Chicago Manual of Style.
-=======
+
 If you are citing acknowledging the source this data, we recommend the following format using the Chicago Manual of Style.
 >>>>>>> 653fe2d0652fc51e6d14af649813fd23aa0bfcc8
 
